@@ -1,0 +1,43 @@
+# This repository contains only documentation and prompts
+# No code artifacts should be committed
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary Files
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Documentation Build Artifacts (if using doc generators)
+site/
+_site/
+.doctrees/
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Notes and drafts (optional - keep if you want to commit them)
+# drafts/
+# notes/
+# scratch/
