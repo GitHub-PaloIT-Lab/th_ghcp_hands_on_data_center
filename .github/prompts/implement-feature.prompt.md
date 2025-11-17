@@ -5,7 +5,7 @@ You are implementing a complete feature for a Flutter Clean Architecture project
 
 ## Rules
 - ตอบเป็นภาษาไทยเท่านั้น
-- ขอรีวิวก่อนลงมือทำทุกครั้ง
+- ขอรีวิวก่อนลงมือทำทุกครั้ง ให้ถามว่า กด 1 เพื่อยืนยันการรีวิว
 
 ## Required Reading & Reference Materials
 
